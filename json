@@ -4,7 +4,7 @@
             "OpenButton": 0,
             "HideIcon": false,
             "HideIconAfter": 60,
-            "IconURL": "https://imgur.com/ijWn7Ib",
+            "IconURL": "https://i.imgur.com/ijWn7Ib.png",
             "DisableIconText": true,
             "OpenOnStart": true,
             "OpenOnStartOnlyNewPlayers": true,
@@ -17,7 +17,7 @@
                     "buttontext": "Welcome",
                     "title1": "Welcome to the DuoPVP Cluster",
                     "text1": "This Cluster is ment to be a fun Place for Solo- and Duo-Tribe Players.\nYou are not allowed to Offline Raid anyone.\nIf you are looking for a Server to play where you can keep your RealLife stable\nand go to work without beeing worried about getting raided,\nthen this Server is exactly for you!\nConsider joining the Discord for Rules, Updates and further Information.\nProtect yourself from getting banned, because you didnt know something.",
-                    "imageurl": "https://imgur.com/bb1Q3rQ"
+                    "imageurl": "https://i.imgur.com/bb1Q3rQ.png"
                 }
             }
         ],
