@@ -28,8 +28,14 @@
                     "url": "https://discord.gg/rKedu7Em86"
                 }
             },
-            {
+                        {
                 "link2": {
+                    "text": "Rules",
+                    "url": "https://raw.githubusercontent.com/revoover/Server-Rules/main/Rules"
+                }
+            },
+            {
+                "link3": {
                     "text": "Official CoC",
                     "url": "https://survivetheark.com/index.php?/code-of-conduct/"
                 }
